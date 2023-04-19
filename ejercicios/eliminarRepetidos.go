@@ -1,5 +1,9 @@
 package ejercicios
 
+import "guia4/set"
+
 func EliminarRepetidos[T comparable](arreglo []T) []T {
-	panic("Not implemented")
+	aux := set.NewSet(arreglo...)
+
+	return aux.Values()
 }
