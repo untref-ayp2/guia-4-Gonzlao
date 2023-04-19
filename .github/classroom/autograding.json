@@ -3,7 +3,7 @@
     {
       "name": "Test Diferencia Simetrica",
       "setup": "",
-      "run": "go test /tests/ejercicios_tests/DiferenciaSimetrica_test.go",
+      "run": "go test tests/ejercicios_tests/DiferenciaSimetrica_test.go",
       "input": "",
       "output": "",
       "comparison": "included",
@@ -13,7 +13,7 @@
     {
       "name": "Test Eliminar Repetidos",
       "setup": "",
-      "run": "go test /tests/ejercicios_tests/EliminarRepetidos_test.go",
+      "run": "go test tests/ejercicios_tests/EliminarRepetidos_test.go",
       "input": "",
       "output": "",
       "comparison": "included",
@@ -23,7 +23,7 @@
     {
       "name": "Test Letras",
       "setup": "",
-      "run": "go test /tests/ejercicios_tests/Letras_test.go",
+      "run": "go test tests/ejercicios_tests/Letras_test.go",
       "input": "",
       "output": "",
       "comparison": "included",
